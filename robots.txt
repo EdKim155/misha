@@ -1,0 +1,10 @@
+# robots.txt for Scammer Warning Site
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yoursite.com/sitemap.xml
+
+# Allow all search engines to index the warning
+# This helps spread awareness about the scammer
